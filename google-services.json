@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297176179194",
+    "firebase_url": "https://repligo-uljs0-default-rtdb.firebaseio.com",
+    "project_id": "repligo-uljs0",
+    "storage_bucket": "repligo-uljs0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297176179194:android:a98aff29918373c6528443",
+        "android_client_info": {
+          "package_name": "RepliGo.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297176179194-b1cidt4uk9hqcj61lqo29oj062snj8u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oDGuHzJyaYqNSnKBEc-CZKW3XiGOXic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297176179194-b1cidt4uk9hqcj61lqo29oj062snj8u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
